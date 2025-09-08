@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+
+.banner {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    height: 65%;
+    margin-left: 9%;
+    color: gainsboro;
+    font-family: sans-serif;
+    
+}
+
+
+.mensagemCentral {
+    font-size: 48px;
+    color: aliceblue;
+}
+
+.mensagemSegundaria {
+    max-width: 40em;
+    margin-top: 10px;
+
+}
+
+.strongTextoSegundario {
+    color:  #87CEFA;;
+    font-size: 22px;
+    font-weight: 700;
+}
+
+.dadosJuntos {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 80px;
+}
+
+.dadosBanner{
+    font-size: 60px;
+    color: rgb(143, 213, 235);
+    text-shadow: 3px 1px 1px #000000;
+     font-family: "Oswald", sans-serif;
+}
+
+.dadosSeparados{
+    display: flex;
+    align-items: flex-end;
+    gap: 10px;
+}
+
+.imagemBanner{
+    display: flex;
+    margin-left: 180px;
+
+}
