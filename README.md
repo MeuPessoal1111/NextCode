@@ -1,12 +1,13 @@
-# React + Vite
+# NextCode
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+projeto com intuito de treinar as tecnologias:
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* NodeJs
+* React
+ ## Instalação
+ logo após dar o git clone, acesse acesse o aqruivo e instale a depedencia npm,para executar o projeto utilize o comando npm run dev para iniciar em um localHost
+ ```
+ -git clone
+ -npm install
+ -npm run dev
+```
